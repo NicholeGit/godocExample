@@ -18,5 +18,5 @@ cd XXXX; godoc -http=:6060
 并且可以访问 `go.mod` 中所有库的 godoc。 
 
 ## 在官网上发布 GoDoc
-需要打 tag 
-需要 License 文件
+- 需要打 tag   
+- 需要 License 文件
