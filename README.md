@@ -1,5 +1,6 @@
 # golang 如何写注解文档  
 [![Go Reference](https://pkg.go.dev/badge/github.com/NicholeGit/godocExample.svg)](https://pkg.go.dev/github.com/NicholeGit/godocExample)
+[![License](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 > [作为 Gopher，你知道 Go 的注释即文档应该怎么写吗？](https://cloud.tencent.com/developer/article/1959696)  
 > [万字长文解读 pkg.go.dev 的设计和实现](https://mp.weixin.qq.com/s/btX53JVCgfOfxDy2ynQa_A)
 
